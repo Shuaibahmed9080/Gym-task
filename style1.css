@@ -55,8 +55,8 @@ text-transform: uppercase;
 font-family: "Oswald", sans-serif;
 }
 .article1 p{
-    margin-right: 37%;
-    font-size: 60%;
+    margin-right: 39%;
+    font-size: 62%;
     font-family: "Muli", sans-serif;
     font-weight: 600;
     word-spacing: 15px;
@@ -64,7 +64,7 @@ font-family: "Oswald", sans-serif;
 
 }
 .h3tag{
-    margin-right: 54%;
+    margin-right: 59%;
     
 }
 .h2tag{
@@ -80,7 +80,7 @@ font-family: "Oswald", sans-serif;
     padding: 20px;
     margin-top: 50px;
     letter-spacing: 5px;
-    margin-right: 56%;
+    margin-right: 61%;
 }  
 
 /*article2*/
@@ -142,8 +142,8 @@ font-family: "Oswald", sans-serif;
     color: whitesmoke;
     font-size: 40px;
     margin-top: 300px;
-    
     text-align: center;
+    background-size: cover;
     background-image: url('banner-bg.jpg');
     background-repeat: no-repeat;
     height: 500px;
@@ -571,8 +571,9 @@ font-family: "Oswald", sans-serif;
         text-align: center;
         background-image: url('banner-bg.jpg');
         background-repeat: no-repeat;
-        height: 500px;
-        width: 500px;
+        /* height: 500px;
+        width: 500px; */
+        background-size: cover;
         text-transform: uppercase;
         font-family: sans-serif;
         font-weight: bolder;
@@ -624,7 +625,7 @@ font-family: "Oswald", sans-serif;
 }
 #art4box{
     border: 1px solid rgb(77, 66, 66);
-        margin: 17px 91px;
+        margin: 15px 7px;
         height: 349px;
         width: 304px;
         padding: 21px 20px;
