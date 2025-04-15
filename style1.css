@@ -24,9 +24,9 @@ body{
         position: relative;
     }    
 .img1{
-    margin-top: 1.4%; 
-    border-radius: 30px;
-    margin-right: 100px;
+    /* margin-top: 1.4%; */
+    /* border-radius: 30px; */
+    /* margin-right: 100px; */
     
 
 
@@ -107,7 +107,7 @@ font-family: "Oswald", sans-serif;
     font-family:sans-serif;
     font-size: 20px;
     font-weight: bolder;
-    margin-top: 6%;
+    margin-top: 30%;
     text-align: center;
     line-height: 40px;
 }
@@ -126,7 +126,7 @@ font-family: "Oswald", sans-serif;
     font-size: 15px;
     line-height: 25px;
     margin-top: 6%;
-    margin-right: 4%;
+    margin-right: 2%;
 }
 
 .flexh1{
@@ -137,7 +137,7 @@ font-family: "Oswald", sans-serif;
     display: flex;
     margin-top: 4%;
     flex-wrap: wrap;
-    margin-left: 9%;
+    margin-left: 15%;
 }
 #icon{
     font-size: 50px;
@@ -346,7 +346,21 @@ font-family: "Oswald", sans-serif;
     font-family: sans-serif;
     
 }
-@media (max-width:480px)
+
+@media (max-width:807px)
+{
+    .h2tag {
+        font-size: 50px;
+    }
+    .h3tag{
+        font-size: 45px;
+    }
+    .logoo li{
+        margin-top:25px;
+    }
+}
+
+@media (max-width:551px)
 {
     
 .img1{
